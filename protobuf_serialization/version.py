@@ -1,6 +1,6 @@
 import subprocess
 
-version = '0.7.1'
+version = '0.1.0'
 
 # Append a branch name to the version for development purpose
 try:
