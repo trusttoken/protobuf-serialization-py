@@ -8,6 +8,7 @@ setup(
     name='protobuf-serialization-py',
     version=__version__,
     description="gRPC Python library",
+    author='Alvin Chow',
     packages=[
         'protobuf_serialization',
         'protobuf_serialization/deserialization',
